@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid mainagencycode="US-nnmoma" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnmoma/BakerRichardBrown.xml">nnmoma_bakerrichardbrown</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="245$a">Richard Brown Baker Diaries<lb/>
+                </titleproper>
+                <subtitle>in The Museum of Modern Art Archives</subtitle>
+                <author encodinganalog="245$c">Finding aid converted to EAD 2002 by Kathleene Konkle, 2006.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from BakerRichardBrown.xml</p>
+            </editionstmt>
+            <publicationstmt>
+                <address>
+                    <addressline>The Museum of Modern Art<lb/>
+                    </addressline>
+                    <addressline>Museum Archives<lb/>
+                    </addressline>
+                    <addressline>11 West 53 Street<lb/>
+                    </addressline>
+                    <addressline>New York, NY 10019-5497<lb/>
+                    </addressline>
+                    <addressline>moma.org/learn/resources/archives<lb/>
+                        <lb/>
+                    </addressline>
+                </address>
+                <p>
+                    <date encodinganalog="260$c" era="ce" calendar="gregorian">2006.</date>
+                    <address>
+                        <addressline>The Museum of Modern Art</addressline>
+                    </address>. All rights reserved.</p>
+                <publisher encodinganalog="260$b">The Museum of Modern Art, Publisher</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation encodinganalog="500">Machine-readable finding aid derived from BakerRichardBrown.doc,<date normal="2002" era="ce" calendar="gregorian">2006</date>.<lb/>
+                <lb/>
+            </creation>
+            <langusage>
+                <lb/>
+                <lb/>Description is in<language encodinganalog="546" langcode="eng">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Descriptive Summary</head>
+            <repository label="Repository:" encodinganalog="852$a">
+                <corpname>The Museum of Modern Art, Museum Archives</corpname>
+                <address>
+                    <addressline>11 West 53 Street<lb/>
+                    </addressline>
+                    <addressline>New York, NY 10019-5497<lb/>
+                    </addressline>
+                    <addressline>moma.org/learn/resources/archives<lb/>
+                        <lb/>
+                    </addressline>
+                </address>
+            </repository>
+            <origination label="Creator:">
+                <persname encodinganalog="100">Richard Brown Baker</persname>
+            </origination>
+            <unittitle label="Title:" encodinganalog="245$a">Richard Brown Baker Diaries</unittitle>
+            <unitdate label="Dates:" era="ce" calendar="gregorian">October 16, 1952 to May 17, 1960</unitdate>
+            <physdesc label="Quantity:" encodinganalog="300$a">One 2.5" document box</physdesc>
+            <unitid encodinganalog="099" label="Identification:" countrycode="US" repositorycode="US-nnmoma"/>
+        </did>
+        <custodhist id="a16" encodinganalog="561$a">
+            <head>Provenance</head>
+            <p>The Diaries were given to Riva Castleman by Richard Brown Baker at an unknown date. Lent to the Museum Archives for duplication in January 1990, the originals were returned to the Department of Prints and Illustrated Books.</p>
+        </custodhist>
+        <accessrestrict id="a14" encodinganalog="506$a">
+            <head>Access Restrictions</head>
+            <p>The Diaries are available for research purposes only.</p>
+        </accessrestrict>
+        <userestrict id="a15" encodinganalog="540$a">
+            <head>Ownership and Literary Rights</head>
+            <p>The Richard Brown Baker Diaries in The Museum of Modern Art Archives are the physical property of The Museum of Modern Art. Literary rights, including copyright belong to the authors or their legal heirs and assigns. Rights to work produced during the normal course of Museum business resides with The Museum of Modern Art. For further information, and to obtain permission to publish or reproduce, contact the Museum Archivist.</p>
+        </userestrict>
+        <prefercite id="a18" encodinganalog="524$a">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form:<lb/>
+                <lb/>Richard Brown Baker Diaries in The Museum of Modern Art Archives, [series.folder], The Museum of Modern Art Archives, New York.</p>
+        </prefercite>
+        <bioghist id="a2" encodinganalog="545$a">
+            <head>Biographical Note</head>
+            <p>A native of Providence, Rhode Island, Richard Brown Baker graduated from Yale University in 1935. After studying at Oxford University on a Rhodes Scholarship, he returned to Providence where he worked as a reporter. In 1940 he returned to Europe as attach&#xE9; and private secretary to the American Ambassador in Madrid. During the Second World War he served as a research analyst in the Office of Strategic Services, then as a foreign affairs specialist for the State Department, and later in the Central Intelligence Agency in Washington, D.C. Although he started collecting art in Washington, Baker moved to New York in 1952, where he devoted himself completely to painting, studying with Hans Hofmann, and collecting.</p>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="520$b">
+            <head>Scope and Content Note</head>
+            <p>The Diaries describe Baker's growth as a collector of post-World War II art in New York, and his relationships with various artists, including Enrico Donati, Pierre Dumont, Jackson Pollock, Robert Motherwell, Richard Stankiewicz; dealers including Leo Castelli, Rose Fried, Sidney Janis; and New York society, including Sam and Jane Kootz, and the Walter Hochschilds, among others. He also details his relationship with The Museum of Modern Art including individuals such as Margaret Scolari Barr (Mrs. Alfred H. Barr, Jr.), Dorothy Miller, and Abe Chanin, among others.</p>
+            <p>According to a note written by Baker and included in the papers, the diary began in the late 1920s and was still being written in 1987.</p>
+        </scopecontent>
+        <arrangement id="a5" encodinganalog="351$b">
+            <head>Arrangement</head>
+            <p>This collection is organized by date into one series:<list>
+                    <item>Oct 16, 1952-May 1956</item>
+                    <item>May 7, 1956-February 23, 1958</item>
+                    <item>July 9, 1958-November 2,1959</item>
+                    <item>November, 1959-May 17, 1960</item>
+                </list>
+            </p>
+            <p/>
+            <p>It should be noted that the diaries are incomplete.</p>
+        </arrangement>
+        <relatedmaterial id="a6" encodinganalog="544 1$n">
+            <head>Related Collections at MoMA and Elsewhere</head>
+            <p>The Museum's relationships with artists and the art world during the fifties can be studied in many of the Archives holdings, among them, the Records of the Department of Circulating Exhibitions, the Dorothy Miller Papers and the collection of Sound Recordings of Museum-Related Events. Please consult with Archives staff for additional information.</p>
+        </relatedmaterial>
+    </archdesc>
+</ead>

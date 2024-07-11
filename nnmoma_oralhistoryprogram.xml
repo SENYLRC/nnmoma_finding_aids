@@ -1,0 +1,1236 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+        <eadid mainagencycode="US-nnmoma" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnmoma/OralHistoryProgram.xml">nnmoma_oralhistoryprogram</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>The Oral History Program</titleproper>
+                <subtitle>in The Museum of Modern Art Archives</subtitle>
+                <author>Finding aid prepared by Molly Shea, under the direction of Michelle Elligott, 2012.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from OralHistoryProgram.xml</p>
+            </editionstmt>
+            <publicationstmt>
+                <address>
+                    <addressline>The Museum of Modern Art<lb/>
+                    </addressline>
+                    <addressline>Museum Archives<lb/>
+                    </addressline>
+                    <addressline>11 West 53 Street<lb/>
+                    </addressline>
+                    <addressline>New York, NY 10019-5497<lb/>
+                    </addressline>
+                    <addressline>moma.org/learn/resources/archives<lb/>
+                        <lb/>
+                    </addressline>
+                </address>
+                <p>
+                    <date encodinganalog="260$c" normal="2012" era="ce" calendar="gregorian">2012</date>
+                    <address>
+                        <addressline>The Museum of Modern Art</addressline>
+                    </address>. All rights reserved.</p>
+                <publisher encodinganalog="260$b">The Museum of Modern Art, Publisher</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation encodinganalog="500">Machine-readable finding aid created by Alana Miller.</creation>
+            <langusage>
+                <lb/>
+                <lb/>Description is in<language encodinganalog="546" langcode="eng">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory">
+        <did>
+            <head>Overview of the Collection</head>
+            <repository encodinganalog="852$a" label="Repository:">
+                <corpname>The Museum of Modern Art, Museum Archives</corpname>
+                <address>
+                    <addressline>11 West 53 Street<lb/>
+                    </addressline>
+                    <addressline>New York, NY 10019-5497<lb/>
+                    </addressline>
+                    <addressline>moma.org/learn/resources/archives<lb/>
+                        <lb/>
+                    </addressline>
+                </address>
+            </repository>
+            <origination label="Creator:">
+                <corpname encodinganalog="110">Museum of Modern Art (New York, N.Y.). Museum Archives<lb/>
+                </corpname>
+            </origination>
+            <unittitle encodinganalog="245$a" label="Title:">The Oral History Program</unittitle>
+            <unitdate label="Dates:" normal="1990/2012" era="ce" calendar="gregorian">1987-</unitdate>
+            <abstract encodinganalog="520$a" label="Abstract:">Oral history interviews conducted with individuals related to The Museum of Modern Art</abstract>
+            <langmaterial>The records are in<language>English</language>.</langmaterial>
+        </did>
+        <processinfo encodinganalog="583" id="a20">
+            <head>Historical Note</head>
+            <p>The Oral History Program was initiated by The Museum of Modern Art Archives. In 1990 the Archives received a grant of $52,600 from the NEH to initiate its Oral History Program and to produce 40 oral histories. [Note: three oral histories in the collection pre-date the formal establishment of the program, those of Eliza Bliss Parkinson Cobb, Sidney Janis, and Monroe Wheeler.] Donations from foundations and individuals, and Museum in-kind contributions were utilized to match the NEH grant. Additional funding was provided by a bequest to the Museum in 1992 from the Estate of Morris Leverton. Subsequently, the program has been underwritten by generous contributions from the Museum's Contemporary Arts Council, International Council, and Trustee Committee on Archives, Library and Research Support; from individual donors Leslie Garfield, Agnes Gund, Gilbert Silverman, and Joanne Stern; and from a generous grant from an anonymous donor.</p>
+        </processinfo>
+        <scopecontent encodinganalog="520" id="a3">
+            <head>Scope and Content</head>
+            <p>The purpose of the Oral History Program is to fill gaps in the written record on specific topics. Oral histories serve to enhance and complement the Museum Archives' holdings of documentary material with first-hand observation, recollections and reflections. Importantly, our Oral History Program is MoMA-centric. Increasingly, interviews with artists are being undertaken to discuss the role of the Museum in the life of the artist, as well as to interview the artist about works of art in the Museum Collection and to discuss the artist's process, use of materials, and the larger context within which a particular work of art was made.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351$b" id="a5">
+            <head>Arrangement</head>
+            <list type="marked">
+                <item>Series I: Artists</item>
+                <item>Series II: Trustees and Donors</item>
+                <item>Series III: Administrative and Curatorial Staff</item>
+                <item>Series IV: Museum Building and Expansion</item>
+                <item>Series V: MoMA PS1</item>
+                <item>Series VI: Art World</item>
+                <item>Series VII: Exhibition Documentaries</item>
+                <item>Series VIII: Restricted Interviews</item>
+            </list>
+        </arrangement>
+        <relatedmaterial encodinganalog="544 1" id="a6">
+            <head>Related Material</head>
+            <p>Other collections containing recorded interviews in The Museum of Modern Art Archives are the Sound Recordings of Museum-Related Events collection, the Video Recordings of Museum-Related Events collection, the David Hoffman MoMA History Interviews, and the Calvin Tomkins Papers.</p>
+        </relatedmaterial>
+        <accessrestrict encodinganalog="506$a" id="a14">
+            <head>Restrictions on Access</head>
+            <p>Transcripts of the oral history interviews are accessible for use in the Archives' reading room in Manhattan. Audio recordings of the interviews are restricted and not available. Digital video footage of artists who were interviewed as part of the Museum's 2011-2012 Artist Oral History Initiative is available for use in the Archives' reading room in Manhattan. The Museum Archives seeks to make the oral history interviews acessible to researchers to the fullest extent possible in accordance with signed agreements with the participants and established access policies. Please note that some oral histories have been conducted but have not at this time been cleared for public use and are listed in Series VII: Restricted Interviews.</p>
+        </accessrestrict>
+        <userestrict encodinganalog="540" id="a15">
+            <head>Ownership and Literary Rights</head>
+            <p>The Museum of Modern Art owns all legal rights to the interviews and any transcriptions and recordings of those interviews, including any copyrights.</p>
+        </userestrict>
+        <prefercite encodinganalog="510" id="a18">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form:</p>
+            <p>Long version: Oral History Program, interview with [interviewee], [date], p. [page number]. The Museum of Modern Art Archives, New York.</p>
+            <p>Abbreviated version: OH Program, [interviewee], [date], p. [page number]. MoMA Archives, NY.</p>
+        </prefercite>
+        <dsc>
+            <head>Container List</head>
+            <c id="d2e143" level="series">
+                <did>
+                    <unittitle>Series I: Artists</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series are artists represented in the Museum's collection and/or have a relationship with the Museum. In some instances, these interviews contain focused dialogue about specific works in the collection. In addition, some artists are former Museum staff.</p>
+                </scopecontent>
+                <c id="d2e150">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Vito Acconci</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Video Clip" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/learn/resources/archives/oralhistory#course4"/>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_acconci.pdf"/>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e163">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Vija Celmins</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Video Clip" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/learn/resources/archives/oralhistory#course2"/>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_celmins.pdf"/>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e176">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Chuck Close</unittitle>
+                        <unitdate normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_close.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e185">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Dan Graham</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e196">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Jasper Johns</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_johns.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e205">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Jeff Koons</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_koons.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e214">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Sol LeWitt</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_lewitt.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e223">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Robert Mangold</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mangold.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e232">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Allan McCollum</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mccollum.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e242">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Bruce Nauman</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Video Clip" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/learn/resources/archives/oralhistory#course3"/>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_nauman.pdf"/>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e255">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Yvonne Rainer</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Video Clip" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/learn/resources/archives/oralhistory#course1"/>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_rainer.pdf"/>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e268">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Robert Rauschenberg</unittitle>
+                        <unitdate normal="2006" era="ce" calendar="gregorian">2006</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_rauschenberg.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e277">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Ed Ruscha</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Video Clip" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/learn/resources/archives/oralhistory#course5"/>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_ruscha.pdf"/>
+                        <note>
+                            <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e290">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>James Turrell</unittitle>
+                        <unitdate normal="2010" era="ce" calendar="gregorian">2010</unitdate>
+                        <note>
+                            <p>Interview part of the 2010 MoMA PS1 Oral History Initiative</p>
+                        </note>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_turrell.pdf"/>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e302" level="series">
+                <did>
+                    <unittitle>Series II: Trustees and Donors</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series are Museum Trustees and donors. Topics covered may include the Museum's Board, participation on committees, acquisitions, donations and their overall experience with the Museum at various points in its history.</p>
+                </scopecontent>
+                <c id="d2e309">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Lily Auchincloss</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_auchincloss.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e318">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Walter Bareiss</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_bareiss.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e327">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Celeste G. Bartos</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_bartos.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e336">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Elizabeth Bliss Parkinson Cobb</unittitle>
+                        <unitdate normal="1988" era="ce" calendar="gregorian">1988</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_cobb.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e345">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Elaine Dannheisser</unittitle>
+                        <unitdate normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_dannheisser.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e354">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Mrs. Agustn E. (Mal) Edwards</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_edwards.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e363">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Duke Franz of Bavaria</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_dukefranz.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e372">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Barbara Jakobson</unittitle>
+                        <unitdate normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_jakobson.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e381">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Philip Johnson</unittitle>
+                        <unitdate normal="1990/1995" era="ce" calendar="gregorian">1990, 1991, 1995</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_johnson.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e391">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>June Larkin</unittitle>
+                        <unitdate normal="2004" era="ce" calendar="gregorian">2004</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_larkin.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e400">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Margaret McDermott</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mcdermott.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e409">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>John Rewald</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_rewald.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e418">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Mrs. Bertram (Louise Reinhardt) Smith</unittitle>
+                        <unitdate normal="1992" era="ce" calendar="gregorian">1992</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_smith.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e427">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Joanne Stern</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_stern.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e436">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Mrs. Donald B. (Beth) Straus</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_straus.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e445">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Jeanne C. Thayer</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_thayer.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e454">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Edward M.M. Warburg</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_warburg.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e463">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard Zeisler</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_zeisler.pdf"/>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e472" level="series">
+                <did>
+                    <unittitle>Series III: Administrative and Curatorial Staff</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series are former Museum staff members reflecting upon their professional experience at the Museum. Topics include, but are not limited to, exhibition history, acquisitions, the Museum's expansion projects, recollections of artists and other staff, and descriptions of various Museum programs.</p>
+                </scopecontent>
+                <c id="d2e479">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Emilio Ambasz</unittitle>
+                        <unitdate normal="1993/1994" era="ce" calendar="gregorian">1993, 1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_ambasz.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e488">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Franoise Boas</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_boas.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e497">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Eileen Bowser</unittitle>
+                        <unitdate normal="2000" era="ce" calendar="gregorian">2000</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_bowser.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e506">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Olive Bragazzi</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_bragazzi.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e515">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>William Burback</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_burback.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e524">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Riva Castleman</unittitle>
+                        <unitdate normal="1995/1996" era="ce" calendar="gregorian">1995, 1996</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_castleman.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e533">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Miriam Goldman Cedarbaum</unittitle>
+                        <unitdate normal="2000" era="ce" calendar="gregorian">2000</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_cedarbaum.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e542">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Mildred Constantine</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_constantine.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e551">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Helen M. Franc</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_franc.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e561">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Wilder Green</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_green.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e570">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>John B. Hightower</unittitle>
+                        <unitdate normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_hightower.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e579">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Philip Johnson</unittitle>
+                        <unitdate normal="1990/1995" era="ce" calendar="gregorian">1990, 1991, 1995</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_johnson.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e588">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Betsy B. Jones</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_jones.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e597">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Victor Jules-Louis</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_jules_louis.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e606">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Antoinette King</unittitle>
+                        <unitdate normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_king.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e615">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard H. Koch</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_koch.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e624">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Luisa Kreisberg</unittitle>
+                        <unitdate normal="2003" era="ce" calendar="gregorian">2003</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_kreisberg.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e633">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Sandra Lang Landsman</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_lang.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e642">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Alicia Legg</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_legg.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e651">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>William S. Lieberman</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_lieberman.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e661">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Grace M. Mayer</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mayer.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e670">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Sara Mazo</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mazo.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e679">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Porter McCray</unittitle>
+                        <unitdate normal="1991/1993" era="ce" calendar="gregorian">1991, 1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_mccray.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e688">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Pearl L. Moeller</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_moeller.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e697">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard E. Oldenburg</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_oldenburg.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e706">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard Palmer</unittitle>
+                        <unitdate normal="2003" era="ce" calendar="gregorian">2003</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_palmer.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e715">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Frances Pernas</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_pernas.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e724">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Waldo Rasmussen</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_rasmussen.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e733">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Eloise Ricciardelli</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_ricciardelli.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e742">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Gilbert S. Robinson</unittitle>
+                        <unitdate normal="2002" era="ce" calendar="gregorian">2002</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_robinson.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e751">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>William S. Rubin</unittitle>
+                        <unitdate normal="1993/1994" era="ce" calendar="gregorian">1993, 1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_rubin.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e761">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Peter Selz</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_selz.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e770">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Elizabeth Shaw</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_shaw.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e779">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Robert Storr</unittitle>
+                        <unitdate normal="2004" era="ce" calendar="gregorian">2004</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_storr.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e788">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Ione Ulrich Sutton</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_sutton.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e797">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>John Szarkowski</unittitle>
+                        <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_szarkowski.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e806">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard Tooke</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_tooke.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e815">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Kirk Varnedoe</unittitle>
+                        <unitdate normal="2001/2002" era="ce" calendar="gregorian">2001, 2002</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_varnedoe.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e824">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Jean Volkmer</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_volkmer.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e833">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Monroe Wheeler</unittitle>
+                        <unitdate normal="1987" era="ce" calendar="gregorian">1987</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_wheeler.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e842">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Stuart Wrede</unittitle>
+                        <unitdate normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+                        <note>
+                            <p>Advance permission from Stuart Wrede required to access interview</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e853" level="series">
+                <did>
+                    <unittitle>Series IV: Art World</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series are art dealers, historians, and collectors who have had a relationship with the Museum. Conversation topics typically cover research for books authored, works acquired by the Museum, MoMA exhibitions, and relationships with artists whom the Museum has represented in its collection.</p>
+                </scopecontent>
+                <c id="d2e860">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Irving Blum</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_blum.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e869">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Leo Castelli</unittitle>
+                        <unitdate normal="1991/1992" era="ce" calendar="gregorian">1991, 1992</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_castelli.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e878">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>S. Lane Faison</unittitle>
+                        <unitdate normal="2001" era="ce" calendar="gregorian">2001</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_faison.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e887">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Grace Glueck</unittitle>
+                        <unitdate normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_glueck.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e896">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Anne d'Harnoncourt</unittitle>
+                        <unitdate normal="2003/2004" era="ce" calendar="gregorian">2003, 2004</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_dharnoncourt.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e905">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Ben Heller</unittitle>
+                        <unitdate normal="2001" era="ce" calendar="gregorian">2001</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_heller.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e914">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Sidney Janis</unittitle>
+                        <unitdate normal="1967" era="ce" calendar="gregorian">1967</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_janis.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e923">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Dorothy Lichtenstein</unittitle>
+                        <unitdate normal="1998" era="ce" calendar="gregorian">1998</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_lichtenstein.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e932">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Lucy Lippard</unittitle>
+                        <unitdate normal="1999" era="ce" calendar="gregorian">1999</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_lippard.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e942">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Ileana Sonnabend</unittitle>
+                        <unitdate normal="1997" era="ce" calendar="gregorian">1997</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_sonnabend.pdf"/>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e951" level="series">
+                <did>
+                    <unittitle>Series V: Museum Building and Expansion</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series are architects, developers and lawyers involved in the Museum's major 1984 expansion campaign designed by architect Cesar Pelli. Other topics may include the Trust for Cultural Resources, the Museum's Sculpture Garden, fundraising, and zoning legislation.</p>
+                </scopecontent>
+                <c id="d2e958">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Donald H. Elliott</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_elliott.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e967">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Philip Johnson</unittitle>
+                        <unitdate normal="1990/1995" era="ce" calendar="gregorian">1990, 1991, 1995</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_johnson.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e976">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard Koch</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                    </did>
+                </c>
+                <c id="d2e984">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Cesar Pelli</unittitle>
+                        <unitdate normal="1994" era="ce" calendar="gregorian">1994</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_pelli.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e993">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Richard Weinstein</unittitle>
+                        <unitdate normal="1991" era="ce" calendar="gregorian">1991</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_weinstein.pdf"/>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e1002" level="series">
+                <did>
+                    <unittitle>Series VI: MoMA PS1</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Participants within this series have an important connection to MoMA PS1 Contemporary Art Center. In 2000, MoMA became affiliated with PS1, and the two institutions fully merged in 2010, thus extending the reach of both institutions. Topics in this series may include MoMA PS1's founding, commissioned artwork, MoMA PS1's studio program, exhibition history, fundraising, and its merger with MoMA.</p>
+                </scopecontent>
+                <c id="d2e1009">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>John Comfort</unittitle>
+                        <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_comfort.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e1018">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>Tom Finkelpearl</unittitle>
+                        <unitdate normal="2010" era="ce" calendar="gregorian">2010</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_finkelpearl.pdf"/>
+                    </did>
+                </c>
+                <c id="d2e1027">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>James Turrell</unittitle>
+                        <unitdate normal="2010" era="ce" calendar="gregorian">2010</unitdate>
+                        <dao xlink:type="simple" xlink:title="Transcript (PDF)" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.moma.org/docs/learn/archives/transcript_turrell.pdf"/>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e1036" level="series">
+                <did>
+                    <unittitle>Series VII: Exhibition Documentaries</unittitle>
+                </did>
+                <scopecontent>
+                    <p>From 2003 to 2009, the Museum undertook a series of oral history-inspired interviews related to special MoMA exhibitions. These exhibition documentaries featured curators and artists discussing the exhibition in situ. The series of exhibition documentaries was initiated in 2003 under the guidance of Mary Lea Bandy, Deputy Director of Curatorial Affairs, and CK Studios produced the videos. DVD copies of the interviews are available in the MoMA Archives, and the HDCam masters are held by the Museum's Department of Film.</p>
+                </scopecontent>
+                <c id="d2e1043">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>
+                            <title xlink:type="simple" render="italic" xlink:href="">Matisse Picasso</title>[MoMA Exh. #1906, February 13, 2003 - May 19, 2003]</unittitle>
+                        <unitdate normal="2003" era="ce" calendar="gregorian">2003</unitdate>
+                        <abstract>Participants include Chief Curator at Large John Elderfield and Department of Painting and Sculpture Chief Curator Kirk Varnedoe.</abstract>
+                        <note>
+                            <p>See also Video Recordings of Museum-Related Events, 2008-213.</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e1058">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>
+                            <title xlink:type="simple" render="italic" xlink:href="">Friedlander</title>[MoMA Exh. #1943, June 5, 2005-August 29, 2005]</unittitle>
+                        <unitdate normal="2003" era="ce" calendar="gregorian">2003</unitdate>
+                        <abstract>Participants include artist Lee Friedlander and Department of Photography Chief Curator Peter Galassi.</abstract>
+                        <note>
+                            <p>See also Video Recordings of Museum-Related Events, 2008-46.</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e1073">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>
+                            <title xlink:type="simple" render="italic" xlink:href="">Pioneering Modern Painting: C&#xE9;zanne and Pissarro 1865-1885</title>[MoMA Exh. #1944, June 26, 2005-September 12, 2005]</unittitle>
+                        <unitdate normal="2005" era="ce" calendar="gregorian">2005</unitdate>
+                        <abstract>Participants include Department of Painting and Sculpture Curator Joachim Pissarro and Chief Curator John Elderfield.</abstract>
+                        <note>
+                            <p>See also Video Recordings of Museum-Related Events, 2008-47.</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e1088">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>
+                            <title xlink:type="simple" render="italic" xlink:href="">Elizabeth Murray</title>[MoMA Exh. #1955, October 28, 2005-January 9, 2006]</unittitle>
+                        <unitdate normal="2005" era="ce" calendar="gregorian">2005</unitdate>
+                        <abstract>Participants include artist Elizabeth Murray and Department of Painting and Sculpture Curator Robert Storr.</abstract>
+                        <note>
+                            <p>See also Video Recordings of Museum-Related Events, 2008-48 and 2008-48D.</p>
+                        </note>
+                    </did>
+                </c>
+                <c id="d2e1103">
+                    <did>
+                        <container type="box"/>
+                        <container/>
+                        <unittitle>
+                            <title xlink:type="simple" render="italic" xlink:href="">Richard Serra Sculpture: Forty Years</title>[MoMA Exh. #2007, June 3, 2007-September 24, 2007]</unittitle>
+                        <unitdate normal="2007" era="ce" calendar="gregorian">2007</unitdate>
+                        <abstract>Participants include artist Richard Serra and Dia Foundation Curator Lynne Cooke.</abstract>
+                        <note>
+                            <p>See also Video Recordings of Museum-Related Events, 2008-49.</p>
+                        </note>
+                    </did>
+                </c>
+            </c>
+            <c id="d2e1118" level="series">
+                <did>
+                    <unittitle>Series VIII: Restricted Interviews</unittitle>
+                </did>
+                <scopecontent>
+                    <p>Interviews within this series are unavailable for public access at this time.</p>
+                </scopecontent>
+                <c id="d2e1125" level="subseries">
+                    <did>
+                        <unittitle>Artists</unittitle>
+                    </did>
+                    <c id="d2e1129">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Richard Hamilton</unittitle>
+                            <unitdate normal="2009" era="ce" calendar="gregorian">2009</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1137">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Ellsworth Kelly</unittitle>
+                            <unitdate normal="1991/2012" era="ce" calendar="gregorian">1991, 1999, 2012</unitdate>
+                            <note>
+                                <p>2012 interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                            </note>
+                        </did>
+                    </c>
+                    <c id="d2e1148">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Jim Rosenquist</unittitle>
+                            <unitdate normal="2012" era="ce" calendar="gregorian">2012</unitdate>
+                            <note>
+                                <p>Interview part of 2011-2012 Artist Oral History Initiative Video Project</p>
+                            </note>
+                        </did>
+                    </c>
+                    <c id="d2e1159">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Robert Ryman</unittitle>
+                            <unitdate normal="1993" era="ce" calendar="gregorian">1993</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1167">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Yoko Ono</unittitle>
+                            <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                            <note>
+                                <p>Interview part of 2011-2012 Artist Oral History Initiative Project</p>
+                                <p>Transcript of audio recording only</p>
+                            </note>
+                        </did>
+                    </c>
+                </c>
+                <c id="d2e1180" level="subseries">
+                    <did>
+                        <unittitle>Trustees and Donors</unittitle>
+                    </did>
+                    <c id="d2e1184">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Agnes Gund</unittitle>
+                            <unitdate normal="2009/2012" era="ce" calendar="gregorian">2009,2012</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1192">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Donald B. Marron</unittitle>
+                            <unitdate normal="1994/1996" era="ce" calendar="gregorian">1994, 1996</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1200">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>David Rockefeller</unittitle>
+                            <unitdate normal="1991/2001" era="ce" calendar="gregorian">1991, 2001</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d2e1208" level="subseries">
+                    <did>
+                        <unittitle>Administrative and Curatorial Staff</unittitle>
+                    </did>
+                    <c id="d2e1212">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Carolyn Lanchner</unittitle>
+                            <unitdate normal="2003" era="ce" calendar="gregorian">2003</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1220">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Deborah Wye</unittitle>
+                            <unitdate normal="2011" era="ce" calendar="gregorian">2011</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1228">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Kynaston McShine</unittitle>
+                            <unitdate era="ce" calendar="gregorian">2010, 2011</unitdate>
+                        </did>
+                    </c>
+                    <c id="d2e1236">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Bernice Rose</unittitle>
+                            <unitdate normal="2002" era="ce" calendar="gregorian">2002</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d2e1244" level="subseries">
+                    <did>
+                        <unittitle>Art World</unittitle>
+                    </did>
+                    <c id="d2e1248">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>Paula Cooper</unittitle>
+                            <unitdate normal="1996" era="ce" calendar="gregorian">1996</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d2e1256" level="subseries">
+                    <did>
+                        <unittitle>Exhibition Documentaries</unittitle>
+                    </did>
+                    <c id="d2e1260">
+                        <did>
+                            <container type="box"/>
+                            <container/>
+                            <unittitle>
+                                <title xlink:type="simple" render="italic" xlink:href="">Martin Puryear</title>[MoMA Exh. #2021. November 4, 2007-January 14, 2008]</unittitle>
+                            <unitdate normal="2007" era="ce" calendar="gregorian">2007</unitdate>
+                            <abstract>Participants include artist Martin Puryear and Chief Curator of Painting and Sculpture John Elderfield.</abstract>
+                            <note>
+                                <p>See also Video Recordings of Museum-Related Events, 2010-18 and 2010-18D.</p>
+                            </note>
+                        </did>
+                    </c>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
